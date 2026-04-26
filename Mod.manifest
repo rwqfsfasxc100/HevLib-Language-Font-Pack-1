@@ -1,0 +1,28 @@
+[mod_information]
+
+name="HevLib Language Font Pack 1"
+id="hev.LIBRARY.font_pack_1"
+description=""
+brief=""
+author="__hev"
+credits=["   --- Supporters ---   ","GAZI - supporter (ko-fi)","Bagger dude - supporter (ko-fi)","WT - supporter (ko-fi)"]
+
+[version]
+
+version_major=1
+version_minor=0
+version_bugfix=0
+version_metadata=""
+
+[links]
+
+HEVLIB_GITHUB={"URL":"https://github.com/rwqfsfasxc100/FullMineralNames"}
+HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1494935260410937454"}
+HEVLIB_NEXUS={"URL":"https://www.nexusmods.com/dvringsofsaturn/mods/30"}
+HEVLIB_DONATIONS={"URL":"https://ko-fi.com/00hev"}
+HEVLIB_BUGREPORTS={"URL":"https://forms.gle/vUoarawnYjy3hXJi9"}
+
+[manifest_definitions]
+
+manifest_version=2.2
+;manifest_url="https://raw.githubusercontent.com/rwqfsfasxc100/FullMineralNames/refs/heads/main/Mod.manifest"
