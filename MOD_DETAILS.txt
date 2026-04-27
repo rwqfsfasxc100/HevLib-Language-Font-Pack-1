@@ -1,0 +1,9 @@
+;MOD_ID|hev.LIBRARY.font_pack_1
+;MOD_NAME|HevLib Language Font Pack 1
+;MOD_ZIP_NAME|HevLib Language Font Pack 1.zip
+
+[center][b]HevLib Language Font Pack 1[/b][/center]
+
+Library extension for HevLib that provides access to a majority of CKJ characters.
+
+[b]Recommended if you are having issues with some characters not appearing correctly in some menus[/b]
