@@ -1,6 +1,5 @@
 ;MOD_ID|hev.LIBRARY.font_pack_1
 ;MOD_NAME|HevLib Language Font Pack 1
-;MOD_ZIP_NAME|HevLib Language Font Pack 1.zip
 
 [center][b]HevLib Language Font Pack 1[/b][/center]
 
