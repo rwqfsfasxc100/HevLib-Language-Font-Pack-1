@@ -4,6 +4,6 @@
 
 [center][b]HevLib Language Font Pack 1[/b][/center]
 
-Library extension for HevLib that provides access to a majority of CKJ characters.
+Library extension for HevLib that provides access to a majority of CKJ (Chinese, Korean, Japanese) characters.
 
 [b]Recommended if you are having issues with some characters not appearing correctly in some menus[/b]
