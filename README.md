@@ -1,5 +1,5 @@
 # HevLib Language Font Pack 1
-Adds CKJ font support for HevLib fonts
+Adds CKJ (Chinese, Korean, Japanese) font support for HevLib fonts
 
 > [!WARNING]
 > HevLib is required for this mod to function.
