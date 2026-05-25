@@ -6,7 +6,7 @@ const MOD_PRIORITY = 0
 # Name of the mod, used for writing to the logs
 const MOD_NAME = "HevLib Language Font Pack 1"
 const MOD_VERSION_MAJOR = 1
-const MOD_VERSION_MINOR = 0
+const MOD_VERSION_MINOR = 1
 const MOD_VERSION_BUGFIX = 0
 const MOD_VERSION_METADATA = ""
 
@@ -21,10 +21,10 @@ var _savedObjects := []
 # Script and scene replacements should be done here, before the originals are loaded
 func _init(modLoader = ModLoader):
 	l("Registered!")
-	replaceScene("font_overrides/courier_bold.ttf","res://HevLib/ui/themes/fonts/courier_new/courier_bold.ttf")
-	replaceScene("font_overrides/courier_new.ttf","res://HevLib/ui/themes/fonts/courier_new/courier_new.ttf")
-	replaceScene("font_overrides/verdana.ttf","res://HevLib/ui/themes/fonts/verdana/verdana.ttf")
-	replaceScene("font_overrides/verdana_bold.ttf","res://HevLib/ui/themes/fonts/verdana/verdana_bold.ttf")
+#	replaceScene("font_overrides/courier_bold.ttf","res://HevLib/ui/themes/fonts/courier_new/courier_bold.ttf")
+#	replaceScene("font_overrides/courier_new.ttf","res://HevLib/ui/themes/fonts/courier_new/courier_new.ttf")
+#	replaceScene("font_overrides/verdana.ttf","res://HevLib/ui/themes/fonts/verdana/verdana.ttf")
+#	replaceScene("font_overrides/verdana_bold.ttf","res://HevLib/ui/themes/fonts/verdana/verdana_bold.ttf")
 	
 	
 func l(msg:String, title:String = MOD_NAME, version:String = str(MOD_VERSION_MAJOR) + "." + str(MOD_VERSION_MINOR) + "." + str(MOD_VERSION_BUGFIX)):
