@@ -2,25 +2,32 @@
 
 name="HevLib Language Font Pack 1"
 id="hev.LIBRARY.font_pack_1"
-description=""
-brief=""
 author="__hev"
-credits=["   --- Supporters ---   ","GAZI - supporter (ko-fi)","Bagger dude - supporter (ko-fi)","WT - supporter (ko-fi)"]
+credits=PoolStringArray( "HEVLIB_CREDITS_SUPPORTERS_HEADER", "HEVLIB_CREDITS_SUPPORTERS_KOFI_GAZI", "HEVLIB_CREDITS_SUPPORTERS_KOFI_BAGGERDUDE", "HEVLIB_CREDITS_SUPPORTERS_KOFI_1WT1" )
 
 [version]
 
 version_major=1
 version_minor=1
-version_bugfix=0
-version_metadata=""
+version_bugfix=1
 
 [links]
 
-HEVLIB_GITHUB={"URL":"https://github.com/rwqfsfasxc100/HevLib-Language-Font-Pack-1"}
-HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1354537481197850655"}
-HEVLIB_NEXUS={"URL":"https://www.nexusmods.com/dvringsofsaturn/mods/31"}
-HEVLIB_DONATIONS={"URL":"https://ko-fi.com/00hev"}
-HEVLIB_BUGREPORTS={"URL":"https://forms.gle/vUoarawnYjy3hXJi9"}
+HEVLIB_GITHUB={
+"URL": "https://github.com/rwqfsfasxc100/HevLib-Language-Font-Pack-1"
+}
+HEVLIB_DISCORD={
+"URL": "https://discord.com/channels/426287934870781952/1354537481197850655"
+}
+HEVLIB_NEXUS={
+"URL": "https://www.nexusmods.com/dvringsofsaturn/mods/31"
+}
+HEVLIB_DONATIONS={
+"URL": "https://ko-fi.com/00hev"
+}
+HEVLIB_BUGREPORTS={
+"URL": "https://forms.gle/vUoarawnYjy3hXJi9"
+}
 
 [manifest_definitions]
 
